@@ -1,6 +1,5 @@
 /**
  * @file ispalindrom.c
- * @author Lorenz Hoerburger <e12024737@student.tuwien.ac.at>
  * @date 04.11.2021 
  *
  * @brief Main program module.
